@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "顺序表_B", "顺序表_B\顺序表_B.vcxproj", "{47DDA18A-66C1-4BA9-A110-3B398796AEDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47DDA18A-66C1-4BA9-A110-3B398796AEDD}.Debug|x64.ActiveCfg = Debug|x64
+		{47DDA18A-66C1-4BA9-A110-3B398796AEDD}.Debug|x64.Build.0 = Debug|x64
+		{47DDA18A-66C1-4BA9-A110-3B398796AEDD}.Debug|x86.ActiveCfg = Debug|Win32
+		{47DDA18A-66C1-4BA9-A110-3B398796AEDD}.Debug|x86.Build.0 = Debug|Win32
+		{47DDA18A-66C1-4BA9-A110-3B398796AEDD}.Release|x64.ActiveCfg = Release|x64
+		{47DDA18A-66C1-4BA9-A110-3B398796AEDD}.Release|x64.Build.0 = Release|x64
+		{47DDA18A-66C1-4BA9-A110-3B398796AEDD}.Release|x86.ActiveCfg = Release|Win32
+		{47DDA18A-66C1-4BA9-A110-3B398796AEDD}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F6FA31F0-D105-4234-B494-4A7859594832}
+	EndGlobalSection
+EndGlobal
